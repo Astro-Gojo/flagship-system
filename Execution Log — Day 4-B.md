@@ -1,4 +1,4 @@
-Execution Log — Day 4-B
+Execution Log — Day 4-B (actually day 5)
 
 Project: Flagship System — Python Sensor-Light Simulation.
 
@@ -27,5 +27,6 @@ Outcome/Learnings:
 -Understood program organization with main().
 
 -Learned simulation of hardware input using Python’s random module.
+
 
 -Observed the importance of modular code for readability, maintainability, and scaling.
