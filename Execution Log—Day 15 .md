@@ -4,36 +4,36 @@ Focus: Temporal behavior & system stability
 
 Key Concepts Learned:
 
-Systems must consider time, not just instantaneous input
+-Systems must consider time, not just instantaneous input
 
-Difference between stable states and transitional states
+-Difference between stable states and transitional states
 
-VERIFYING as a confidence-building state
+-VERIFYING as a confidence-building state
 
-Importance of avoiding premature state transitions
+-Importance of avoiding premature state transitions
 
-Noise tolerance in real-world systems
+-Noise tolerance in real-world systems
 
 New Mental Models Acquired:
 
-Stability over correctness
+-Stability over correctness
 
-Consistency over single truth
+-Consistency over single truth
 
-Calm systems outperform reactive systems
+-Calm systems outperform reactive systems
 
 Tasks Completed:
 
-Analyzed VERIFYING state requirements
+-Analyzed VERIFYING state requirements
 
-Identified dangers of single-sample decisions
+-Identified dangers of single-sample decisions
 
-Defined stabilization rule for noisy input
+-Defined stabilization rule for noisy input
 
-Articulated reliability philosophy of systems
+-Articulated reliability philosophy of systems
 
 Outcome:
 
-System design thinking elevated from reactive logic to temporal reasoning
+-System design thinking elevated from reactive logic to temporal reasoning
 
-Readiness to implement filters, counters, and guarded transitions in future designs
+-Readiness to implement filters, counters, and guarded transitions in future designs
