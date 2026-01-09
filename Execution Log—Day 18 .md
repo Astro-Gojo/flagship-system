@@ -1,6 +1,6 @@
 Day 18 — Execution Log
 
-Focus: System sustainability & recovery as a designed state
+Focus: System sustainability & recovery as a designed state.
 
 Key Learning:
 
@@ -22,8 +22,9 @@ Core Rule Logged:
 
 Status:
 
--Main task completed
+-Main task completed.
 
--Side quest deferred intentionally (GitHub business-core repo created to maintain streak)
+-Side quest deferred intentionally (GitHub business-core repo created to maintain streak).
 
--No zero day achieved
+
+-No zero day achieved.
