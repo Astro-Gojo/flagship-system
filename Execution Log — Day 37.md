@@ -94,21 +94,12 @@ This prevents rapid ON/OFF toggling when temperature fluctuates near a threshold
 
 🧪 Test Scenarios \& Results
 
-
-
 | Input Temperature | Initial State | Output         | Final State |
-
 | ----------------- | ------------- | -------------- | ----------- |
-
-| 32°C              | FAN\_OFF       | Fan turned ON  | FAN\_ON      |
-
-| 29°C              | FAN\_ON        | No change      | FAN\_ON      |
-
-| 25°C              | FAN\_ON        | Fan turned OFF | FAN\_OFF     |
-
-| 27°C              | FAN\_OFF       | No change      | FAN\_OFF     |
-
-
+| 32°C              | FAN_OFF       | Fan turned ON  | FAN_ON      |
+| 29°C              | FAN_ON        | No change      | FAN_ON      |
+| 25°C              | FAN_ON        | Fan turned OFF | FAN_OFF     |
+| 27°C              | FAN_OFF       | No change      | FAN_OFF     |
 
 
 
@@ -167,4 +158,5 @@ All test cases behaved as expected.
 
 
 Completed successfully. Logic verified and logged.
+
 
