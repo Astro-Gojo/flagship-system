@@ -141,7 +141,7 @@ This was my first exposure. That’s fine.
 
 🔎 Conceptual Upgrades Today;
 
-You moved from:
+I moved from:
 
 “Critical section prevents corruption”
 
@@ -184,3 +184,4 @@ Recommendation:
 * Do soft core lightly.
 * Push GitHub streak.
 * Sleep.
+
