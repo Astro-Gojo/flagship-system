@@ -1,20 +1,19 @@
 Day: 99 | Execution log | Date : 30/03/2026
 Session Type: Micro Session
 
-Topic: Order Control using Shared Flag
+Topic: Efficient Waiting (Sleep + Wake)
 
 Concept:
-Execution order between threads can be controlled using a shared variable (flag).
+Threads should wait efficiently without consuming CPU using sleep-based mechanisms.
 
-Implementation Idea:
-Threads wait until a condition is satisfied before proceeding.
+Problem:
+Busy waiting (spin loops) wastes CPU resources.
 
-Example:
-while turn != expected_value:
-    pass
+Solution:
+Use wait-notify mechanisms where threads sleep until a condition is met.
 
 Key Insight:
-This approach enforces order but uses busy waiting, which wastes CPU resources.
+Efficient synchronization avoids unnecessary CPU usage.
 
 Systems Engineering Principle:
-Correctness and control must be balanced with efficien
+High-performance systems minimize resource waste by replacing active waiting with passive waiting.
