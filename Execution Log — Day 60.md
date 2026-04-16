@@ -1,6 +1,6 @@
 # Day 60 — Priority Inversion, Deadlocks & RTOS Stability
 
-## Main Quest — Real-Time Systems Deepening
+## Main Quest — Real-Time Systems Deepening | Date : 19-02-2026
 
 ### 1. Priority Inversion
 Learned how a low-priority task holding a resource can block a high-priority task, causing deadline violations.
