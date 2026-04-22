@@ -1,4 +1,4 @@
-# Day 56 — Interrupts, Polling & Resilience
+# Day 56 — Interrupts, Polling & Resilience | Date : 15-02-2026
 
 ## Concept
 Explored interrupt-driven vs polling architectures and why real systems use hybrid models.
