@@ -1,4 +1,4 @@
-# Day 57 — Determinism
+# Day 57 — Determinism | Date : 16-02-2026
 
 ## Concept
 Studied why determinism is critical in embedded and hardware-aware systems.
