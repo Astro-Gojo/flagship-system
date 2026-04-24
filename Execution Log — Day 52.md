@@ -1,4 +1,4 @@
-Day 52 — State-Aware Throttling
+Day 52 — State-Aware Throttling | Date : 11-02-2026
 
 Focus:
 Learning when and how to deliberately reduce load without breaking system continuity.
