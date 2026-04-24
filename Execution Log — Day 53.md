@@ -1,4 +1,4 @@
-# Day 53 — Event Awareness
+# Day 53 — Event Awareness | Date : 12-02-2026
 
 ## Concept
 Studied why event-driven systems are more responsive and efficient than delay-based loops.
