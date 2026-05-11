@@ -1,4 +1,4 @@
-### Day 39 – Main Quest Log
+### Day 39 – Main Quest Log | Date : 29-01-2026
 
 - Reframed temperature controller as a system (Input → State → Output)
 - Identified states: HEATING, COOLING, IDLE
