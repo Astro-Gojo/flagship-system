@@ -1,4 +1,4 @@
-Day 14 – State-Based Thinking
+Day 14 – State-Based Thinking | Date : 04-01-2026
 
 Focus:
 - Shifted from if-else logic to state-based system design
