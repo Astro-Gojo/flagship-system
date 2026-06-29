@@ -1,4 +1,4 @@
-Day 10 — System Layering & Control Flow Thinking
+Day 10 — System Layering & Control Flow Thinking | Date : 31-12-2025
 
 Focus:
 - Understanding software as layered systems instead of linear scripts
