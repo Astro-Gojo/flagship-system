@@ -1,4 +1,5 @@
-Day 4 — Understanding Functions & Control Flow (Simulation)
+Day 4 — Understanding Functions & Control Flow (Simulation) | Date : 25-12-2025
+
 Objective
 
 To understand how functions work in a systems-oriented program:
