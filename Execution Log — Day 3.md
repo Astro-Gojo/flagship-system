@@ -1,4 +1,4 @@
-# Execution Log — Day 3
+# Execution Log — Day 3 | Date : 24-12-2025
 
 ## Objective
 Extend the simulated system to handle multiple sensor inputs and combined decision logic.
