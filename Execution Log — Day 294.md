@@ -1,28 +1,26 @@
 Execution Log — Day 294 | Date : 10/10/2026
 
-Topic: Virtual Memory & Address Spaces
+Topic: Paging & Page Tables
 
 Session: Micro
 
-
 Core Concepts:
-- Virtual addresses are used by processes.
-- Physical addresses identify actual RAM locations.
-- MMU translates virtual addresses into physical addresses.
-- OS manages mappings and memory permissions.
-- Each process has its own virtual address space.
+Virtual memory is divided into pages.
+Physical memory is divided into frames.
+Page tables map virtual pages to physical frames.
+Pages can occupy non-contiguous physical frames.
 
 What I Learned:
-- Different processes can use identical virtual addresses.
-- Those addresses can map to different physical locations.
-- Memory isolation prevents unauthorized access.
-- Shared memory is possible through intentional mappings.
+Paging enables flexible physical memory allocation.
+Processes don't require one continuous block of RAM.
+Paging reduces external fragmentation.
+Internal fragmentation can still occur.
 
 Key Systems Insight:
-Virtual memory separates the addresses a program uses from the physical memory hardware.
+Physical memory allocation doesn't need to follow the logical arrangement of a process's virtual address space.
 
 Hardware Insight:
-The Raspberry Pi's MMU handles address translation while Linux manages mappings and permissions.
+The MMU uses page-table mappings to translate addresses. The OS manages those mappings and their permissions.
 
 Foundation Principle:
-A process operates within its own virtual address space, with hardware-assisted translation and OS-managed protection.
+Paging separates logical memory organization from physical RAM placement.
